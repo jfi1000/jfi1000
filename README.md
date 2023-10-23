@@ -34,6 +34,9 @@ Soy un apasionado desarrollador de software con más [6 años] de experiencia en
 # Educación
 - **[Universidad Veracruzana]** - [Xalapa, Veracruz]
   - [Lic. En Informática ] (2012)
+  - 
+- **[Bootcamp- Soy Henry]** - [Online]
+  - [React-redux-express-nodejs] (2023)
 
 ## Contacto
 - LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-luis-far%C3%ADas-4a5816157]
